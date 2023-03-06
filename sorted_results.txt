@@ -1,0 +1,16 @@
+results 28-3
+name: Ислам topic: 2:: rate: 10
+name: Абил topic: 3:: rate: 9
+name: Мирас topic: 6:: rate: 7
+name: Эмир topic: 4:: rate: 7
+name: Арген topic: 6:: rate: 6
+name: Жаннат topic: 4:: rate: 6
+name: Даниель topic: 4:: rate: 5
+name: Улан topic: 1:: rate: 5
+name: Аскар topic: 4:: rate: 4
+name: Бекболот topic: 5:: rate: 4
+name: Батырхан topic: 4:: rate: 1
+name: Жетиген topic: 5:: rate: 1
+name: Нурбол topic: 2:: rate: 1
+name: Адыл topic: 5:: rate: 0
+name: Толонбек topic: 1:: rate: 0
